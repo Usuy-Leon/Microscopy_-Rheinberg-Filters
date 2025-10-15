@@ -1,7 +1,9 @@
 # Microscopy_-Rheinberg-Filters
 An open source filter for a costume Rheinberg Filters hat can be adapted to any compound microscope.
 
-![Screencast From 2025-10-15 00-54-24](https://github.com/user-attachments/assets/e22325af-9d3c-45a7-a3f6-f576b3e7df05)
+
+![Screencast From 2025-10-15 00-50-51](https://github.com/user-attachments/assets/d98aec5b-f53b-496b-8a3e-7d3683af8342)
+
 
 This 3D file is designed to be an optical filter for contrast illumination Technics for microscopy enthusiast and professionals.
 
@@ -17,8 +19,8 @@ Using chemical dyes or fixatives can change the sample, so scientists have been 
 
 Simply download the correct STL file for your prints.
 
+![Screencast From 2025-10-15 00-54-24](https://github.com/user-attachments/assets/e22325af-9d3c-45a7-a3f6-f576b3e7df05)
 
-![Screencast From 2025-10-15 00-50-51](https://github.com/user-attachments/assets/d98aec5b-f53b-496b-8a3e-7d3683af8342)
 
 
 # Want to customize the design for your own specific objective or microscope?
@@ -30,7 +32,7 @@ Simply download the correct STL file for your prints.
    - " https://openscad.org/downloads.html "
 - [ ] Open the file using the program and look for parameters of the filter
 
-    <img width="800" height="280" alt="image" src="https://github.com/user-attachments/assets/2b5b19a5-1e32-407a-8524-bd4192ad69ff" />
+    <img width="600" height="180" alt="image" src="https://github.com/user-attachments/assets/2b5b19a5-1e32-407a-8524-bd4192ad69ff" />
 
 - [ ] Simply edit to your needs
 - [ ]  Rheinberg Filters THE COLOR OF YOUR MATERIAL IS THE COLOR YOU WANT IN YOUR FILTER
