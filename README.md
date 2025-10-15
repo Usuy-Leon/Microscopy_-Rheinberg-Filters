@@ -1,4 +1,4 @@
-# Microscopy_-Rheinberg-Filters
+# Microscopy_Rheinberg Filters
 An open source filter for a costume Rheinberg Filters hat can be adapted to any compound microscope.
 
 
