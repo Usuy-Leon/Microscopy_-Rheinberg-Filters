@@ -1,4 +1,5 @@
-# Microscopy_Rheinberg Filters
+# Rheinberg Filters Microscopy
+
 > The idea is that your print is so thin that the filter would allow light to pass, the filter is just a dark field base idea for background color shift.
 
 An open source filter for a costume Rheinberg Filters hat can be adapted to any compound microscope.
