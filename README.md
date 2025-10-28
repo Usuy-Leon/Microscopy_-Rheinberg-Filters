@@ -62,7 +62,6 @@ Most microscopes have a way to add a filter in the optical path between the ilum
 
 ### How it looks, blue background!
 
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/8579582f-fe65-4305-be71-96e5928e0bd5" />
 
 
 Daphnia sp, 40x, Custume Rheinberg Filters 
